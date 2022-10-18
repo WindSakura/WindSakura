@@ -4,5 +4,6 @@
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=WindSakura)]()
 
-- ✍️ [Blog(Azure白嫖人士)](https://xn--7st11hzr0cxkaq6p.icu/)
+- ✍️ [Blog(Azure白嫖人士)](https://xn--7st11hzr0cxkaq6p.icu)
 
+- [Hexo(GayHub托管)](https://blog.xn--7st11hzr0cxkaq6p.icu)
